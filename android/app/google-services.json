@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "598858222467",
+    "project_id": "a1-android-a8d99",
+    "storage_bucket": "a1-android-a8d99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598858222467:android:af92155f674169013ac4b6",
+        "android_client_info": {
+          "package_name": "au.edu.utas.username.a1android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598858222467-e0iacftm9gk9vbus269dk5pjcaimkueh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr2cVYIssq0k54CuZfNoJrd7_j18m7paA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598858222467-e0iacftm9gk9vbus269dk5pjcaimkueh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598858222467-n3hrdbv2uj03c933u5e3abv5l7cj8cvn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.edu.utas.username.assignment3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598858222467:android:572d0777282390ba3ac4b6",
+        "android_client_info": {
+          "package_name": "com.example.assignment4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598858222467-e0iacftm9gk9vbus269dk5pjcaimkueh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr2cVYIssq0k54CuZfNoJrd7_j18m7paA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598858222467-e0iacftm9gk9vbus269dk5pjcaimkueh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598858222467-n3hrdbv2uj03c933u5e3abv5l7cj8cvn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "au.edu.utas.username.assignment3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
